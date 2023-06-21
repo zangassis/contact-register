@@ -2,7 +2,7 @@
 using ContactRegister.Repository;
 
 var builder = WebApplication.CreateBuilder(args);
-builder.Services.AddScoped<IContactRepository, ContactRepository>();
+builder.Services.AddSingleton<IContactRepository, ContactRepository>();
 var app = builder.Build();
 
 app.MapGet("/contacts", (IContactRepository repository) => {

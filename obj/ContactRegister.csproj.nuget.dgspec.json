@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/assiszang/Documents/Telerik/44/ContactRegister/ContactRegister.csproj": {}
+    "/Users/assiszang/Documents/Telerik/44/contact-register/ContactRegister.csproj": {}
   },
   "projects": {
-    "/Users/assiszang/Documents/Telerik/44/ContactRegister/ContactRegister.csproj": {
+    "/Users/assiszang/Documents/Telerik/44/contact-register/ContactRegister.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/assiszang/Documents/Telerik/44/ContactRegister/ContactRegister.csproj",
+        "projectUniqueName": "/Users/assiszang/Documents/Telerik/44/contact-register/ContactRegister.csproj",
         "projectName": "ContactRegister",
-        "projectPath": "/Users/assiszang/Documents/Telerik/44/ContactRegister/ContactRegister.csproj",
+        "projectPath": "/Users/assiszang/Documents/Telerik/44/contact-register/ContactRegister.csproj",
         "packagesPath": "/Users/assiszang/.nuget/packages/",
-        "outputPath": "/Users/assiszang/Documents/Telerik/44/ContactRegister/obj/",
+        "outputPath": "/Users/assiszang/Documents/Telerik/44/contact-register/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/assiszang/.nuget/NuGet/NuGet.Config"
